@@ -5,6 +5,4 @@ Ejecutar primero el siguiente comando
 
 commit adicional que no conoce local branch
 
-Alui metió un cambio en remoto
-
-testing pull
+Alui metió un
